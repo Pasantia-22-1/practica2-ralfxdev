@@ -27,5 +27,6 @@ Por crecimiento te han contratado para hacer un fork al diseño de la  pagina pr
 !!Cualquier duda comunicarse con el Coach.
 
 
-
 # Html-css-pr-ctica2
+
+![website-docker](./assets/screenshot.png)
